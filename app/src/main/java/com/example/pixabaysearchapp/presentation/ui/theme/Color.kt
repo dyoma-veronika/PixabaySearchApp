@@ -1,4 +1,4 @@
-package com.example.pixabaysearchapp.ui.theme
+package com.example.pixabaysearchapp.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.example.pixabaysearchapp
+package com.example.pixabaysearchapp.presentation.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,7 +7,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
 import androidx.compose.ui.Modifier
-import com.example.pixabaysearchapp.ui.theme.PixabaySearchAppTheme
+import com.example.pixabaysearchapp.presentation.ui.theme.PixabaySearchAppTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
