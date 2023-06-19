@@ -16,6 +16,8 @@ Features
 
 -Detail screen shows a bigger version of the image, username, tags, nuber of likes, downloads, and comments
 
+-Tests
+
 
 Stack:
 
@@ -32,6 +34,10 @@ Coil
 Retrofit
 
 Room
+
+JUnit
+
+Truth
 
 Search Screen             | Confirm Action | Details Screen 
 :-------------------------:|:-------------------------:|:-------------------------:
