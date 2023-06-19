@@ -66,7 +66,7 @@ private val LightColorPalette = lightColorScheme(
 )
 
 @Composable
-fun PixabayAppTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit) {
+fun PixabaySearchAppTheme(darkTheme: Boolean = isSystemInDarkTheme(), content: @Composable () -> Unit) {
     val useDynamicColors = Build.VERSION.SDK_INT >= Build.VERSION_CODES.S
     val colors = when {
         useDynamicColors && darkTheme -> dynamicDarkColorScheme(LocalContext.current)
